@@ -1,13 +1,15 @@
-# package_name
+# Gerador de Senhas
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Um pacote simples em Python que permite **gerar senhas seguras** e **avaliar sua força**. Ideal para projetos, estudos ou uso pessoal.
+
+## 📦 Funcionalidades
+
+- Geração de senhas com letras, números e símbolos
+- Avaliação da força da senha (Fraca, Média ou Forte)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Gerador_Senhas
 
 ```bash
 pip install package_name
@@ -21,7 +23,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Matheus de Souza Soares
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
